@@ -59,7 +59,7 @@ namespace UnitTestProject1
              }
             catch(ArgumentException ae)
             {
-
+                // ok
             }
             }
         }
